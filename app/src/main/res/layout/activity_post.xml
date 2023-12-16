@@ -188,7 +188,7 @@
         android:layout_height="40dp"
         android:layout_marginTop="24dp"
         android:backgroundTint="@color/white"
-        android:drawableLeft="@drawable/ic_ike"
+        android:drawableLeft="@drawable/ic_like"
         android:text="Like"
         android:textColor="#BA595959"
         android:textSize="15dp"
